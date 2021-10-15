@@ -10,7 +10,7 @@ para la aplicación y verificación de los procedimientos de desarrollo, asegur�
 • Diseño: Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado
 • Codificación: Se escribe el código fuente de cada componente
 • Pruebas: El principal objetivo de las pruebas debe ser conseguir que el programa funcione incorrectamente y que se descubran defectos
-• Mantenimiento: Durante la explotación del sistema software es necesario realizar cambios ocasionales y para ello hay que rehacer parte del trabajo realizado en lasfases previas
+• Mantenimiento: Durante la explotación del sistema software es necesario realizar cambios ocasionales y para ello hay que rehacer parte del trabajo realizado en las fases previas
 
 
   ※3.- Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
@@ -37,13 +37,14 @@ En ocasiones, los fallos solo se detectan una vez finalizado el proceso de desar
 
   ※5. ¿Qué se entiende por verificación? ¿Y por validación?
 
-En la verificación, se comprueba que el software cumple los requisitos funcionales y no funcionalesde su especificación.
+En la verificación, se comprueba que el software cumple los requisitos funcionales y no funcionales de su especificación.
 En la validación, comprueba que el software cumple las expectativas que el cliente espera
 
 
   ※6.- Explica cómo funciona el modelo de desarrollo mediante creación de prototipos.
 
 Se crea un prototipo durante la fase de análisis y es probado por el usuario/cliente para refinar los requisitos del software a desarrollar, y si es necesario, se repite este proceso cuanto sea necesario
+
 
   ※7.- ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
 
@@ -101,5 +102,3 @@ Los siguientes puntos son de especial importancia para la implantación de una g
 ● Equipo trabajando en un mismo espacio común para maximizar la comunicación.
 ● Dedicación del equipo a tiempo completo.
 ● Estabilidad de los miembros del equipo
-
-Actualizacion
