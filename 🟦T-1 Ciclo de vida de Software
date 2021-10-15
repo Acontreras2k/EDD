@@ -1,0 +1,106 @@
+  ※1.- Define ciclo de vida del software
+
+El ciclo de vida del software es el proceso que contempla ciertas fases de validación de Software, para garantizar que se cumplan los requisitos
+para la aplicación y verificación de los procedimientos de desarrollo, asegurándose de que los métodos usados son apropiados.
+
+
+  ※2.- Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas. 
+
+• Análisis: Se determina y define claramente las necesidades del cliente y se especifica los requisitos que debe cumplir el software a desarrollar.
+• Diseño: Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado
+• Codificación: Se escribe el código fuente de cada componente
+• Pruebas: El principal objetivo de las pruebas debe ser conseguir que el programa funcione incorrectamente y que se descubran defectos
+• Mantenimiento: Durante la explotación del sistema software es necesario realizar cambios ocasionales y para ello hay que rehacer parte del trabajo realizado en lasfases previas
+
+
+  ※3.- Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
+
+El modelo en cascada es el modelo más antiguo, que sigue estos pasos
+• Identifica las fases principales del desarrollo
+• Deben realizarse las fases en el orden indicado
+• Al completar una fase, se inicia la siguiente
+• No se adapta bien al cambio continuo de especificaciones, ya que es un modelo muy rígido
+
+
+  ※4.- Ventajas e inconvenientes del modelo en cascada.
+
+✔ Ventajas:
+Una estructura sencilla gracias a unas fases de proyecto claramente diferenciadas.
+Los costes y la carga de trabajo se pueden estimar al comenzar el proyecto.
+Aquellos proyectos que se estructuran en base al modelo en cascada se pueden representar cronológicamente de forma sencilla.
+
+✘ Desventajas
+Poco margen para realizar ajustes a lo largo del proyecto debido a un cambio en las exigencias.
+El usuario final no se integra en el proceso de producción hasta que no termina la programación.
+En ocasiones, los fallos solo se detectan una vez finalizado el proceso de desarrollo.
+
+
+  ※5. ¿Qué se entiende por verificación? ¿Y por validación?
+
+En la verificación, se comprueba que el software cumple los requisitos funcionales y no funcionalesde su especificación.
+En la validación, comprueba que el software cumple las expectativas que el cliente espera
+
+
+  ※6.- Explica cómo funciona el modelo de desarrollo mediante creación de prototipos.
+
+Se crea un prototipo durante la fase de análisis y es probado por el usuario/cliente para refinar los requisitos del software a desarrollar, y si es necesario, se repite este proceso cuanto sea necesario
+
+  ※7.- ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
+
+● Individuos e interacciones, sobre procesos y herramientas
+● Software funcionando, sobre documentación extensiva
+● Colaboración con el cliente, sobre negociación contractual
+● Respuesta ante el cambio, sobre seguir un plan
+
+
+  ※8.- ¿Qué es una historia de usuario? Consulta el siguiente enlace:
+
+Es una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. Las historias de usuario son utilizadas en las metodologías de desarrollo ágiles para la especificación de requisitos.
+Cada historia de usuario debe ser limitada, esta debería poderse escribir sobre una nota adhesiva pequeña
+
+
+  ※9.- SCRUM. Explica como funciona Scrum. Consulta los siguientes enlaces:
+
+En Scrum un proyecto se ejecuta en ciclos temporales cortos y de duración fija 
+(iteraciones que normalmente son de 2 semanas, aunque en algunos equipos son de 3 y hasta 4 semanas, límite máximo de feedback de producto real y reflexión).
+Cada iteración tiene que proporcionar un resultado completo, un incremento de producto final que sea susceptible de ser entregado con el mínimo esfuerzo al cliente cuando lo solicite
+
+El scrum funciona mediante los siguientes procesos:
+● PLanificación de iteración (Sprint Planning)
+● Ejecución de la iteración (Sprint)
+● Reunión diaria de sincronización del equipo (Scrum Daily Meeting)
+● Demostración de los requisitos completados (Sprint Review)
+● Restrospectiva (Sprint Retrospective)
+● Refinamiento de la lista de requisitos y cambios en el proyecto
+
+
+  ※10.- SCRUM. Define los siguientes términos:
+
+Product backlog: es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto. Todas las tareas deben listarse en el product backlog, para que estén visibles ante todo el equipo y se pueda tener una visión panorámica de todo lo que se espera realizar.
+
+Sprint backlog: es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el Incremento de Producto
+
+
+  ※11.- SCRUM. En la terminología Scrum qué términos se utilizan como sinónimo de:
+
+Jefe de proyecto: Es responsable del cumplimiento de los plazos. Es decir, como el propietario del Producto está antes de la fecha límite del Sprint en SCRUM
+Cliente: (Product Owner) Su principal misión es encargarse de que exista una priorización clara de los objetivos a conseguir, con el propósito de maximizar el valor del trabajo que lleva a cabo el equipo.
+Equipo de desarrollo: Se encargan de desarrollar el producto, auto-organizándose y auto-gestionándose para conseguir entregar un incremento de software al final del ciclo de desarrollo.
+
+
+  ※12.- SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. Consulta el siguiente enlace:
+
+Los siguientes puntos son de especial importancia para la implantación de una gestión ágil de proyectos como Scrum:
+● Cultura de empresa basada en trabajo en equipo, delegación, creatividad y mejora continua.
+● Compromiso del cliente en la dirección de los resultados del proyecto, gestión del ROI y disponibilidad para poder colaborar.
+● Compromiso de la Dirección de la organización para resolver problemas endémicos y realizar cambios organizativos, formando equipos autogestionados y multidisciplinares y fomentando una cultura de gestión basada en la colaboración y en la facilitación llevada a cabo por líderes al servicio del equipo.
+● Compromiso conjunto y colaboración de los miembros del equipo.
+● Relación entre proveedor y cliente basada en ganar-ganar, colaboración y transparencia.
+● Facilidad para realizar cambios en el proyecto.
+● Tamaño de cada equipo entre 5 y 9 personas (con técnicas específicas de planificación y coordinación cuando varios equipos trabajan en el mismo proyecto).
+● Equipo trabajando en un mismo espacio común para maximizar la comunicación.
+● Dedicación del equipo a tiempo completo.
+● Estabilidad de los miembros del equipo
+
+
+
